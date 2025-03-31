@@ -46,7 +46,7 @@ menuButton.addEventListener('click', function(){
 
 });
 
-var imageArray=['img/heroImage3.jpeg', 'img/heroImage4.jpeg', 'img/heroImage5.jpeg', 'img/heroImage2.jpeg', 'img/imgHeroBG.jpeg'];
+/*var imageArray=['img/heroImage3.jpeg', 'img/heroImage4.jpeg', 'img/heroImage5.jpeg', 'img/heroImage2.jpeg', 'img/imgHeroBG.jpeg'];
 var i=0;
 
 var image = document.querySelector('.cover-image');
@@ -59,4 +59,4 @@ var timer = setInterval(function(){
         i=0;
     }
 
-}, 5000);
+}, 5000);*/
